@@ -46,6 +46,9 @@
 
 ![JVM_JDK](JVMJDK.jpg)
 
+##  Inspiration for the project 👼
+- ### [Halil Özel](https://github.com/halilozel1903/KotlinTutorials) 💜
+
 ## The goal of the project 🎯
 Starting from the most basic topics about Kotlin, to learning advanced topics and creating an interactive project by sharing the information I have learned with you.
 
