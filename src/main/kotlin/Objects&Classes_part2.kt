@@ -7,15 +7,16 @@
     Let's say we want to store information about Cars like the name of the Car, type of engine, and seating capacity - we can define a type of Car using a class. Defining a type helps to store information as a unit. We can also define the methods i.e. the actions a car can perform in the same unit.
 */
 fun main() {
-    val beetle = Car("Beetle", "Petrol", 4)
+    val beetle = Car("Beetle", "Petrol")
     beetle.driveCar()
     beetle.applyBrakes()
 }
-class Car(val name: String, val type: String, val seatingCapacity: Int)
-{
-    fun driveCar() = println("$name is driving")
-    fun applyBrakes() = println("Brakes applied on car - $name")
-}
+// Already declared this Car class in previous part
+//class Car(val name: String, val type: String)
+//{
+//    fun driveCar() = println("$name is driving")
+//    fun applyBrakes() = println("Brakes applied on car - $name")
+//}
 /*
 
     Explanation -
