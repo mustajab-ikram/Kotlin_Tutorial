@@ -38,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/mustajab/IdeaProjects/Kotlin_Tutorial&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.SmartCastingKt">
     <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterfaceKt" />
       <module name="Kotlin_Tutorial" />
@@ -46,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmartCastingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmartCastingKt" />
+      <module name="Kotlin_Tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SmartCastingKt" />
         <item itemvalue="Kotlin.InterfaceKt" />
       </list>
     </recent_temporary>
