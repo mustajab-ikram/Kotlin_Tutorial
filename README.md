@@ -56,7 +56,18 @@ Starting from the most basic topics about Kotlin, to learning advanced topics an
 It is a project that contains various information and examples about the basics of programming with Kotlin. <br>
 
 ## Project Subjects 🔖
-
+- Overview
+- Basics
+- Control Flow
+- Array & String
+- Functions
+- Collections
+- OOPs Concept
+- Exception Handling
+- Null Safety
+- Regex & Ranges
+- Java Interoperability
+- Miscellaneous
 ## Resources  📚
 
 1. https://kotlinlang.org/docs/kotlin-docs.pdf
