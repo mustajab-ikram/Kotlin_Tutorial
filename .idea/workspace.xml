@@ -41,7 +41,14 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NULLSafetyKt">
+  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
+      <module name="Kotlin_Tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterfaceKt" />
       <module name="Kotlin_Tutorial" />
@@ -72,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.NULLSafetyKt" />
         <item itemvalue="Kotlin.Objects_Classes_part1Kt" />
         <item itemvalue="Kotlin.SmartCastingKt" />
